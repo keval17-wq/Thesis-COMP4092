@@ -7,7 +7,7 @@
 ## Work Completed
 
 1. **Excel Sheet for Extensive Evaluation Criteria:**
-   - In response to the assessment rubric shared in Week 4, I created an Excel sheet outlining the extensive evaluation criteria. This document reflects a thorough understanding of the assessment requirements and will be attached for review during the Week 5 meeting.
+   - In response to the assessment rubric shared in Week 4, I created an Excel sheet outlining the extensive evaluation criteria. This document reflects a thorough understanding of the assessment requirements and was attached for review during the Week 5 meeting.
 
 2. **Google Drive:**
     - Google Drive has been updated with a template file, as well as an attempt at abstract of the said project proposal due this week. I have also uploaded a final list of resources relevent to the thesis topic at this point from my research in the same domain so far. 
