@@ -27,7 +27,7 @@
 ## Work Being Completed
 
 1. **Resource Collection and Initial Review:**
-   - I am collecting and reviewing key papers from Scopus and SciVal, focusing on research relevant to my thesis topic.
+   - I am collecting and reviewing key papers using Google scholar, Scopus and SciVal, focusing on research relevant to my thesis topic.
    - I have identified a preliminary list of research questions based on the trends observed in the literature.
 
 ## Plan for Week 6
@@ -40,7 +40,7 @@
    - I will continue drafting the literature review section by summarizing key works and identifying where my research fits within the current landscape.
 
 3. **Resource Verification:**
-   - I will ensure all resources are verified for quality using indices such as Scopus, SciVal, and the ACL Anthology, particularly focusing on linguistic studies.
+   - I will ensure all resources are verified for quality using indices such as Scopus, SciVal, and the ACL Anthology, focusing on user feedback summarising, linguistic side of this thesis as well as what's available.
 
 4. **Summarizing User Feedback:**
    - I will continue exploring methods and tools for effectively summarizing user feedback, ensuring that this process is well-documented and can be easily integrated into the final thesis.
@@ -48,10 +48,10 @@
 ## Queries for Clarification
 
 1. **Research Scope:**
-   - Should I narrow down the research questions to focus on a specific sub-area within the field, or should the scope remain broad to capture a wider range of data?
+   - Should I narrow down the research questions to focus on a specific sub-area within the field, or should the scope remain broad?
 
 2. **Resource Quality:**
-   - Are there any specific criteria or additional resources beyond Scopus, SciVal, and the ACL Anthology that I should consider for ensuring the quality of my sources?
+   - Are there any specific criteria or additional resources beyond Scopus, SciVal, and the ACL Anthology that I should consider for ensuring the quality of my sources if i run dry?
 
 3. **User Feedback Summarization:**
    - Do you have any recommendations for tools or methods that would best suit the summarization of user feedback in the context of my research?
