@@ -19,3 +19,35 @@ For those interested in hands-on experience, resources like *Text Summarization 
 
 ## Conclusion
 This collection illustrates the ongoing evolution of text summarization. While modern LLMs demonstrate unmatched flexibility and contextual understanding, older methods like LDA still provide valuable insights and a basis for comparison. The future of summarization is clearly being shaped by LLMs, but their development has been built on the foundation of earlier techniques.
+
+
+## Prompts Used
+1. User Feedback Summarization in NLP (2020-2023)
+
+"Leveraging NLP for User Feedback Summarization in Large-Scale Systems"
+"Generative Models for Summarizing Multi-Document Feedback"
+"Comparative Study of Summarization Techniques in Online Review Systems"
+
+2. Clustering in NLP (2019-2023)
+
+"Topic Modeling in User Feedback Clustering"
+"K-Means vs LDA: Clustering Techniques in Summarizing Feedback"
+"Hierarchical Clustering for Summarizing E-commerce Reviews"
+
+3. Multi-Document Summarization (2021-2023)
+
+"State-of-the-Art in Multi-Document Summarization Using Generative AI"
+"From LDA to GPT: Evolution of Summarization Techniques for Feedback Analysis"
+"Applications of Topic Modeling in Summarizing User Feedback"
+
+4. Latent Dirichlet Allocation (LDA) (2018-2022)
+
+"LDA for Topic Modeling in Customer Reviews: A Comparative Study"
+"Beyond LDA: New Methods for Topic Extraction in User Feedback"
+"Improving Summarization via LDA-based Topic Modeling"
+
+5. Generative AI in Feedback Summarization (2022-2023)
+
+"Using GPT-3 for Summarizing Large User Feedback Datasets"
+"A Comparative Review: Generative AI vs Traditional NLP in Summarizing Feedback"
+"Generative AI and its Role in the Evolution of User Feedback Summarization"
