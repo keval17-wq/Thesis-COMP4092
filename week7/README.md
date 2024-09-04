@@ -43,9 +43,6 @@
 4. **Literature Review:**
    - Continued the literature review process, summarizing key works and aligning findings with the research questions.
 
-5. **Resource Verification:**
-   - Verified resources using Scopus, SciVal, and ACL Anthology, focusing on user feedback summarization and linguistic aspects.
-
 6. **Summarizing User Feedback:**
    - Explored methods for summarizing user feedback and documented these methods for integration into the final thesis.
 
